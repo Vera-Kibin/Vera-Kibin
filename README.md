@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Vera 🐾
+# Hi there! I’m Vera 🐾
 
 🎓 **Computer Science Student** at the University of Gdańsk  
 Passionate about building meaningful software and exploring the tech world  
@@ -6,7 +6,7 @@ Always learning, growing, and experimenting with new ideas
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I’m a curious and hands-on learner who loves creating structured, impactful projects.  
 Right now, I’m diving into both **frontend** and **backend development**, aiming to understand how systems work together as a whole.
@@ -15,7 +15,7 @@ I believe in improving step by step, and I’m excited to share my journey with 
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Programming Languages**  
 Python · JavaScript · C++ · Java · Golang · Scala · R · Prolog
@@ -48,7 +48,7 @@ Object-Oriented Programming · SOLID · client-server architecture
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced backend development with **Java** and **Kotlin**
 - System design principles
@@ -56,7 +56,7 @@ Object-Oriented Programming · SOLID · client-server architecture
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🐾 [eduCATe.me](https://github.com/Vera-Kibin/eduCATe.me)
 
@@ -84,7 +84,7 @@ A **hackathon project** combining structured data and user interaction.
 
 ---
 
-## ⏳ Coming Soon
+## Coming Soon
 
 Currently working on:
 
