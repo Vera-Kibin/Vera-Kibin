@@ -63,6 +63,19 @@ The project focuses on object-oriented design and real-time simulation, featurin
 
 Designed to demonstrate practical use of C++ and OOP in a complex interactive system.
 
+### 🏎️ [HotWheels Visual Recommender](https://github.com/Vera-Kibin/hotwheels-visual-recommender)
+
+A machine learning-based visual recommendation system for car models.
+
+The project combines deep learning and similarity search:
+
+- image classification using transfer learning (EfficientNetB0)
+- visual embeddings extraction
+- similarity search with kNN and cosine similarity
+- interactive Streamlit interface
+
+Designed as an applied ML project demonstrating how neural networks and classical algorithms can be combined to build real recommendation systems.
+
 ### 🏦 [Banking API Testing Project](https://github.com/Vera-Kibin/banking-api-testing-project)
 
 A backend banking simulation focused on testing, validation, and system reliability.
@@ -80,4 +93,27 @@ Built to showcase backend quality, testing strategies, and production-like workf
 
 ### 🐕 [Animal Helper](https://github.com/Vera-Kibin/Animal_Helper)
 
-A **hackathon project** combining structured data and user interaction.
+A hackathon project focused on building a data-driven platform for animal shelter transparency.
+
+The system combines structured data and community feedback to improve decision-making:
+
+- interactive map with shelter data (OpenStreetMap)
+- trust score based on welfare indicators and reviews
+- structured review and reporting system
+- backend API with automatic score calculation
+
+Developed during Idea2Impact Hackathon 2026 as a real-world social impact solution.
+
+### 🧱 [BrickStore](https://github.com/Vera-Kibin/BrickStore)
+
+A cloud-native microservices e-commerce platform with authentication and containerized deployment.
+
+The project demonstrates distributed system design:
+
+- microservices architecture (catalog, cart, order services)
+- authentication & authorization with Keycloak (JWT)
+- Docker Compose and Kubernetes deployment
+- role-based access (user / admin)
+- API communication between services
+
+Focused on backend architecture, DevOps, and scalable system design.
