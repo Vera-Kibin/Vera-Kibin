@@ -1,58 +1,24 @@
-# Hi there! I’m Vera 🐾
+# Hi there! I’m Vera Kibin 🐾
 
 🎓 **Computer Science Student** at the University of Gdańsk  
-Passionate about building meaningful software and exploring the tech world  
-Always learning, growing, and experimenting with new ideas
+💼 Open to **internship opportunities**, **collaborations**, and **learning opportunities**
+💡 Interested in full-stack development, backend systems, and applied AI
 
----
-
-## About Me
-
-I’m a curious and hands-on learner who loves creating structured, impactful projects.  
-Right now, I’m diving into both **frontend** and **backend development**, aiming to understand how systems work together as a whole.
-
-I believe in improving step by step, and I’m excited to share my journey with you!
-
----
+I enjoy building structured, real-world projects and continuously improving my engineering skills.  
+Here you can find the projects I’ve been working on during my studies and independently.
 
 ## Skills & Technologies
 
-**Programming Languages**  
-Python · JavaScript · C++ · Java · Golang · Scala · R · Prolog
-
-**Web Development**  
-React · HTML · CSS · SCSS · TailwindCSS · Bootstrap
-
-**Backend & Frameworks**  
-Flask · FastAPI · Node.js · Express.js · Next.js  
+📍**Programming Languages** : Python · JavaScript · C++ · Java · Golang · Scala · R · Scheme · Prolog
+📍**Web Development** : React · HTML · CSS · SCSS · TailwindCSS · Bootstrap
+📍**Backend & Frameworks** : Flask · FastAPI · Node.js · Express.js · Next.js  
 Pydantic
-
-**Databases**  
-SQL · PostgreSQL · MongoDB · Redis
-
-**Tools & Infrastructure**  
-Git · Docker · Kubernetes · Linux  
-WebSocket · MQTT · TLS · SSH
-
-**Testing & Quality**  
-unittest · Behave · Gherkin · JUnit
-
-**AI / Data (basics)**  
-TensorFlow · PyTorch · Keras · scikit-learn
-
-**Data Visualization**  
-Matplotlib · Seaborn · Plotly
-
-**Concepts**  
-Object-Oriented Programming · SOLID · client-server architecture
-
----
-
-## Currently Learning
-
-- Advanced backend development with **Java** and **Kotlin**
-- System design principles
-- AI and Machine Learning fundamentals
+📍**Databases** : SQL · PostgreSQL · MongoDB · Redis
+📍**Tools & Infrastructure** : Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH
+📍**Testing & Quality** : unittest · Behave · Gherkin · JUnit
+📍**AI / Data (basics)** : TensorFlow · PyTorch · Keras · scikit-learn
+📍**Data Visualization** : Matplotlib · Seaborn · Plotly
+📍**Concepts** : Object-Oriented Programming · SOLID · client-server architecture
 
 ---
 
@@ -65,8 +31,15 @@ Features: role-based access, course structure, quizzes, and progress tracking.
 
 ### 🧪 [PurrTasks](https://github.com/Vera-Kibin/PurrTasks)
 
-A **full-stack task manager** using Flask and React.  
-Focus: clean architecture, role-based system, and task lifecycle management.
+A full-stack task management system built with Flask and React.
+The project focuses on clean architecture and backend design, featuring:
+
+- role-based task management (owner / manager)
+- task lifecycle and status transitions
+- filtering, history tracking, and validation logic
+- support for both in-memory and MongoDB storage
+- comprehensive testing (unit, API, BDD, performance, UI)
+  Designed to simulate a production-like backend system with strong emphasis on testing and maintainability.
 
 ### 🏦 [Banking API Testing Project](https://github.com/Vera-Kibin/banking-api-testing-project)
 
