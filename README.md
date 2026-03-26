@@ -1,9 +1,7 @@
 # Hi there! I’m Vera Kibin 🐾
 
 🎓 **Computer Science Student** at the University of Gdańsk
-
 💼 Open to **internship opportunities**, **collaborations**, and **learning opportunities**
-
 💡 Interested in full-stack development, backend systems, and applied AI
 
 I enjoy building structured, real-world projects and continuously improving my engineering skills.  
@@ -11,25 +9,15 @@ Here you can find the projects I’ve been working on during my studies and inde
 
 ## Skills & Technologies
 
-📍**Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog
-
-📍**Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap
-
-📍**Backend & Frameworks** : Flask · FastAPI · Node.js · Express.js · Next.js Pydantic
-
-📍**Databases** : SQL · PostgreSQL · MongoDB · Redis
-
-📍**Tools & Infrastructure** : Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH
-
-📍**Testing & Quality** : unittest · Behave · Gherkin · JUnit
-
-📍**AI / Data (basics)** : TensorFlow · PyTorch · Keras · scikit-learn
-
-📍**Data Visualization** : Matplotlib · Seaborn · Plotly
-
-📍**Concepts** : Object-Oriented Programming · SOLID · client-server architecture
-
----
+🐾 **Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog  
+🐾 **Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap  
+🐾 **Backend & Frameworks:** Flask · FastAPI · Node.js · Express.js · Next.js · Pydantic  
+🐾 **Databases:** SQL · PostgreSQL · MongoDB · Redis  
+🐾 **Tools & Infrastructure:** Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH  
+🐾 **Testing & Quality:** unittest · Behave · Gherkin · JUnit  
+🐾 **AI / Data (basics):** TensorFlow · PyTorch · Keras · scikit-learn  
+🐾 **Data Visualization:** Matplotlib · Seaborn · Plotly  
+🐾 **Concepts:** OOP · SOLID · client-server architecture
 
 ## Projects
 
