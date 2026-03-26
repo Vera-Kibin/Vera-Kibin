@@ -1,23 +1,23 @@
 # Hi there! I’m Vera Kibin 🐾
 
-🎓 **Computer Science Student** at the University of Gdańsk
-💼 Open to **internship opportunities**, **collaborations**, and **learning opportunities**
+🎓 Computer Science Student at the University of Gdańsk  
+💼 Open to internship opportunities and collaborations  
 💡 Interested in full-stack development, backend systems, and applied AI
 
-I enjoy building structured, real-world projects and continuously improving my engineering skills.  
-Here you can find the projects I’ve been working on during my studies and independently.
+I build structured, real-world projects and continuously improve my engineering skills.  
+Here you can explore the work I’ve been developing during my studies and independently.
 
 ## Skills & Technologies
 
-🐾 **Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog  
-🐾 **Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap  
-🐾 **Backend & Frameworks:** Flask · FastAPI · Node.js · Express.js · Next.js · Pydantic  
-🐾 **Databases:** SQL · PostgreSQL · MongoDB · Redis  
-🐾 **Tools & Infrastructure:** Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH  
-🐾 **Testing & Quality:** unittest · Behave · Gherkin · JUnit  
-🐾 **AI / Data (basics):** TensorFlow · PyTorch · Keras · scikit-learn  
-🐾 **Data Visualization:** Matplotlib · Seaborn · Plotly  
-🐾 **Concepts:** OOP · SOLID · client-server architecture
+▸ **Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog  
+▸ **Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap  
+▸ **Backend & Frameworks:** Flask · FastAPI · Node.js · Express.js · Next.js · Pydantic  
+▸ **Databases:** SQL · PostgreSQL · MongoDB · Redis  
+▸ **Tools & Infrastructure:** Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH  
+▸ **Testing & Quality:** unittest · Behave · Gherkin · JUnit  
+▸ **AI / Data (basics):** TensorFlow · PyTorch · Keras · scikit-learn  
+▸ **Data Visualization:** Matplotlib · Seaborn · Plotly  
+▸ **Concepts:** OOP · SOLID · client-server architecture
 
 ## Projects
 
@@ -36,7 +36,7 @@ The project simulates a real-world educational platform and includes:
 
 Focused on frontend architecture, state management, and complex UI logic.
 
-### 🧪 [PurrTasks](https://github.com/Vera-Kibin/PurrTasks)
+### 📋 [PurrTasks](https://github.com/Vera-Kibin/PurrTasks)
 
 A full-stack task management system built with Flask and React.
 The project focuses on clean architecture and backend design, featuring:
@@ -48,11 +48,6 @@ The project focuses on clean architecture and backend design, featuring:
 - comprehensive testing (unit, API, BDD, performance, UI)
 
 Designed to simulate a production-like backend system with strong emphasis on testing and maintainability.
-
-### 🏦 [Banking API Testing Project](https://github.com/Vera-Kibin/banking-api-testing-project)
-
-A backend-focused project for testing financial systems.  
-Includes unit, API, BDD, and performance testing.
 
 ### 🌍 [LivingWorld](https://github.com/Vera-Kibin/LivingWorld)
 
@@ -67,6 +62,21 @@ The project focuses on object-oriented design and real-time simulation, featurin
 - OOP architecture with inheritance and polymorphism
 
 Designed to demonstrate practical use of C++ and OOP in a complex interactive system.
+
+### 🏦 [Banking API Testing Project](https://github.com/Vera-Kibin/banking-api-testing-project)
+
+A backend banking simulation focused on testing, validation, and system reliability.
+
+The project demonstrates:
+
+- account management and transfer logic
+- data validation (PESEL, NIP)
+- REST API testing with pytest
+- BDD scenarios using Behave
+- performance testing and mocking
+- CI pipelines with GitHub Actions
+
+Built to showcase backend quality, testing strategies, and production-like workflows.
 
 ### 🐕 [Animal Helper](https://github.com/Vera-Kibin/Animal_Helper)
 
