@@ -7,8 +7,7 @@
 I enjoy building structured, real-world projects and continuously improving my engineering skills.  
 Here you can find the projects I’ve been working on during my studies and independently.
 
-## Skills & Technologies
-
+**Skills & Technologies**
 📍**Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog
 📍**Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap
 📍**Backend & Frameworks** : Flask · FastAPI · Node.js · Express.js · Next.js Pydantic
