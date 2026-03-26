@@ -9,10 +9,9 @@ Here you can find the projects I’ve been working on during my studies and inde
 
 ## Skills & Technologies
 
-📍**Programming Languages:** Python · JavaScript · C++ · Java · Golang · Scala · R · Scheme · Prolog
-📍**Web Development:** React · HTML · CSS · SCSS · TailwindCSS · Bootstrap
-📍**Backend & Frameworks** : Flask · FastAPI · Node.js · Express.js · Next.js  
-Pydantic
+📍**Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog
+📍**Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap
+📍**Backend & Frameworks** : Flask · FastAPI · Node.js · Express.js · Next.js Pydantic
 📍**Databases** : SQL · PostgreSQL · MongoDB · Redis
 📍**Tools & Infrastructure** : Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH
 📍**Testing & Quality** : unittest · Behave · Gherkin · JUnit
