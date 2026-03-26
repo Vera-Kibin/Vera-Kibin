@@ -9,8 +9,8 @@ Here you can find the projects I’ve been working on during my studies and inde
 
 ## Skills & Technologies
 
-📍**Programming Languages** : Python · JavaScript · C++ · Java · Golang · Scala · R · Scheme · Prolog
-📍**Web Development** : React · HTML · CSS · SCSS · TailwindCSS · Bootstrap
+📍**Programming Languages:** Python · JavaScript · C++ · Java · Golang · Scala · R · Scheme · Prolog
+📍**Web Development:** React · HTML · CSS · SCSS · TailwindCSS · Bootstrap
 📍**Backend & Frameworks** : Flask · FastAPI · Node.js · Express.js · Next.js  
 Pydantic
 📍**Databases** : SQL · PostgreSQL · MongoDB · Redis
@@ -54,20 +54,3 @@ Models interactions between organisms in a dynamic environment.
 ### 🐕 [Animal Helper](https://github.com/Vera-Kibin/Animal_Helper)
 
 A **hackathon project** combining structured data and user interaction.
-
----
-
-## Coming Soon
-
-Currently working on:
-
-- Java-based backend projects
-- AI/ML experiments
-- Additional full-stack applications
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to **internships**, **collaborations**, and **learning opportunities**.  
-Let’s grow together and create something amazing!
