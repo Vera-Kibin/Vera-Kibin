@@ -9,8 +9,8 @@ Here you can explore the work I’ve been developing during my studies and indep
 
 ## Skills & Technologies
 
-▸ **Programming Languages:** Python, JavaScript, C++, Java, Golang, Scala, R, Scheme, Prolog  
-▸ **Web Development:** React, HTML, CSS, SCSS, TailwindCSS, Bootstrap  
+▸ **Programming Languages:** Python · JavaScript · C++ · Java · Golang · Scala · R · Scheme · Prolog  
+▸ **Web Development:** React, HTML · CSS ·SCSS · TailwindCSS · Bootstrap  
 ▸ **Backend & Frameworks:** Flask · FastAPI · Node.js · Express.js · Next.js · Pydantic  
 ▸ **Databases:** SQL · PostgreSQL · MongoDB · Redis  
 ▸ **Tools & Infrastructure:** Git · Docker · Kubernetes · Linux · WebSocket · MQTT · TLS · SSH  
